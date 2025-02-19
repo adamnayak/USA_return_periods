@@ -1,2 +1,2 @@
 # USA_return_periods
-This GitHub repository contains all code and associated data for our national precipitation return period analysis. This repository is currently under maintenance and will be updated shortly to reflect all cleaned and up-to-date files.
+This GitHub repository contains all code and associated data for our national precipitation return period analysis. This repository is currently under maintenance and code is being refined to enhance user accessibility. The code base and data will be updated shortly to reflect all cleaned and up-to-date files. For inquiries about access or code use, please reach out directly to an3232@columbia.edu to get the most up-to-date files. Thank you!
