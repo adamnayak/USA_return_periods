@@ -33,12 +33,55 @@ Preprocessing functions for PRISM gridded data monthly events.
 
 ### Analysis
 
+#### Execute_ST_Cluster_Claims.ipynb
+This is our latest code execution of our spatiotemporal clustering analysis for claims. Note the code allows for generation of a range of clusters based on varying parameters. 
+
+#### Execute_ST_Cluster_Disasters.ipynb
+This is our latest code execution of our spatiotemporal clustering analysis for disaster declarations (associated with aid and buyouts). Note the code allows for generation of a range of clusters based on varying parameters. 
+
+#### Execute_Nonstationary_MK.ipynb
+Our Mann-Kendall test for return periods in R for county-level return periods. 
+
+#### nonstationary_gev.Rmd
+Our nonstationary GEV implementation in R for county-level precipitation.
+
+#### Cluster_Sensitivity.ipynb
+This script provides analysis plots of the sensitivity analysis output across parameters of interest for varying clustering parameterizations for our ST_DBSCAN implementation.
+
 ### Figures
 
-#### F1_3, F2, F4-F7
+#### {F1_3, F2, F4-F7}.ipynb
 Jupyter notebooks for figure curation from processed and analyzed data.
 
 ### Pre-processing
 
+#### MSWEP_Execute_Preprocess.ipynb
+Execution of our county-level precipitation analysis using MSWEP data, including annual block maxima, financial loss merger, GEV fitting, and return period extraction.
+
+#### ERA5_Execute_Preprocess.ipynb
+Execution of our county-level precipitation analysis using ERA5 data, including annual block maxima, financial loss merger, GEV fitting, and return period extraction.
+
+#### PRISM_Execute_Preprocess.ipynb
+Execution of our county-level precipitation analysis using PRISM data, including annual block maxima, financial loss merger, GEV fitting, and return period extraction.
+
+#### CPI_Adjust.ipynb
+This notebook performs operations to adjust claims for inflation using CPI-U for conducting further cost analysis.
+
+#### Claims_Preprocess.ipynb
+This notebook contains the execution of our pre-processing FIMA claims filtering and merging for county-level analysis.
+
+#### Disasters_Preprocess.ipynb
+This notebook contains the execution of our pre-processing FEMA Presidential disaster declaration filtering and merging for county-level analysis.
+
+#### Aid_Preprocess.ipynb
+This notebook contains the execution of our pre-processing FEMA individual disaster aid disbursement merging for county-level analysis.
+
+#### Buyouts_Preprocess.ipynb
+This notebook contains the execution of our pre-processing FEMA HMGP property buyout merging for county-level analysis.
+
+
 ## Final Figures
 Here we provide our final figures for publication.
+
+# Contact Me!
+If you have general questions about the code or data please feel free to reach out and I am always happy to try to do my best to help out. If you're interested in using similar method or working on a new project, I am always looking to collaborate and am happy to contribute more broadly! Email is always in flux - but try me at adam.nayak@columbia.edu, adam.nayak@alumni.stanford.edu, adamnayak1@gmail.com, or feel free to ping me on LinkedIn.
