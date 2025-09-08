@@ -1,5 +1,5 @@
 # USA_return_periods
-This public repository contains all code for the project entitled: "Financial losses associated with US floods occur with frequent, low return period precipitation" soon to be published. Specifically, the repository contains all code and associated data for USA return period analysis for financial losses. We refer to the Hyperclusters repository for clustered claims data.
+This public repository contains all code for the project entitled: "Financial losses associated with US floods occur with frequent, low return period precipitation" soon to be published. Specifically, the repository contains all code for USA return period analysis for financial losses. We refer to the Hyperclusters repository for the most recent version of clustered claims data, which can be merged with the redacted claims dataset provided by OpenFEMA.
 
 NOTE: This repository and associated code (including the README) is regularly updated and being refined to enhance user experience for easy implementation. For inquiries about access or code use, please reach out directly to an3232@columbia.edu to get the most up-to-date files. Thank you!
 
