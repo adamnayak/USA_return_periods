@@ -1,5 +1,5 @@
 # USA_return_periods
-This public repository contains all code for the project entitled: "Financial losses associated with US floods occur with frequent, low return period precipitation" soon to be published. Specifically, the repository contains all code for USA return period analysis for financial losses. We refer to the Hyperclusters repository for the most recent version of clustered claims data, which can be merged with the redacted claims dataset provided by OpenFEMA.
+This public repository contains all code for the project entitled: "Financial losses associated with US floods occur with frequent, low return period precipitation" soon to be published. Specifically, the repository contains all code for USA return period analysis for financial losses.
 
 NOTE: This repository and associated code (including the README) is regularly updated and being refined to enhance user experience for easy implementation. For inquiries about access or code use, please reach out directly to an3232@columbia.edu to get the most up-to-date files. Thank you!
 
@@ -82,6 +82,9 @@ This notebook contains the execution of our pre-processing FEMA HMGP property bu
 
 ## Final Figures
 Here we provide our final figures for publication.
+
+## Data Export
+Here we provide the most recent version of the clustered disaster declarations sensitivity analysis files, which we aim to update periodically. We refer to the Hyperclusters repository for the most recent version of clustered claims data, which can be merged with the redacted claims dataset provided by OpenFEMA.
 
 # Contact Me!
 If you have general questions about the code or data please feel free to reach out and I am always happy to try to do my best to help out. If you're interested in using similar method or working on a new project, I am always looking to collaborate and am happy to contribute more broadly! Email is always in flux - but try me at adam.nayak@columbia.edu, adam.nayak@alumni.stanford.edu, adamnayak1@gmail.com, or feel free to ping me on LinkedIn.
